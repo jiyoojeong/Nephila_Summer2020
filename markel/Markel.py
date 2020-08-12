@@ -4,7 +4,7 @@ import time
 import pandas as pd
 
 # define markel dataset
-pd.read_csv('/Users/jiyoojeong/desktop/C/Markel_Occupancy_Codes/locations_v3.csv')
+locations = pd.read_csv('/Users/jiyoojeong/desktop/C/Markel_Occupancy_Codes/locations_v3.csv')
 
 
 # everything is returned as a dictionary!

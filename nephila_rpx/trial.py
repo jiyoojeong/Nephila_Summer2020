@@ -12,10 +12,9 @@ def rename_to_xml(filename):
     return xml
 
 
-def xml_edit(filename, filepath='.'):
+def xml_edit(filename):
     # ==== EDIT TAGS TO ADD PREFIXES ==== #
     # Open original file
-    os.chdir(filepath)
     rename_to_xml(filename)
     et = ET.parse(filename)
     root = et.getroot()
