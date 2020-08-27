@@ -1,0 +1,31 @@
+,LocationName,Occupancy Code,Occupancy Class,name,types,Street,Area,City
+644,Mobile Mechanical Dept. Crew,352.0,Railroad,72 Beauregard St,['street_address'],72 beauregard s,AL,MOBILE
+267,397,312.0,Retail Trade,Winn-Dixie,"['grocery_or_supermarket', 'florist', 'bakery', 'supermarket', 'food', 'point_of_interest', 'store', 'establishment']",6600 hypoluxo road,FL,LAKE WORTH
+632,SP,351.0,Highway,UPS Customer Center,"['point_of_interest', 'establishment']",1601 atlas road,CA,RICHMOND
+671,FL-22237,365.0,Telephone and Telegraph,821 1st Ave N,['premise'],821 first ave n,FL,SAINT PETERSBURG
+300,Countryside Centre,312.0,Retail Trade,Chipotle Mexican Grill,"['restaurant', 'food', 'point_of_interest', 'establishment']",2537 countryside boulevard,FL,CLEARWATER
+76,Marriott Hollywood Beach,304.0,Temporary Lodging,Hollywood Beach Marriott,"['lodging', 'point_of_interest', 'establishment']",2501 north ocean drive,FL,HOLLYWOOD BEACH
+177,Ocean Watch Villas,306.0,Apartments/Condominiums,Marriott's OceanWatch Villas at Grande Dunes,"['lodging', 'point_of_interest', 'establishment']",8500 costa verda dr,SC,MYRTLE BEACH
+628,SP,351.0,Highway,13350 NW 17th St,['premise'],13350 nw 17th st,FL,MIAMI
+665,1662,365.0,Telephone and Telegraph,1922 Canal St,['street_address'],1922 canal street,LA,NEW ORLEANS
+115,Fountain View,305.0,Group Institutional Housing,Fountainview,"['health', 'point_of_interest', 'establishment']",111 executive center drive,FL,WEST PALM BEACH
+280,Promenade Shopping Plaza,312.0,Retail Trade,Publix Super Market at Promenade Shopping Plaza,"['grocery_or_supermarket', 'bakery', 'liquor_store', 'food', 'point_of_interest', 'store', 'establishment']",9900 alt a1a,FL,PALM BEACH GARDENS
+262,WESTWINDS OF BOCA,312.0,Retail Trade,Westwinds of Boca,"['shopping_mall', 'point_of_interest', 'establishment']",9834 glades road,FL,BOCA RATON
+417,Las Olas Centre,315.0,"Professional, Technical, and Business Services",Las Olas Centre I,"['airport', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",350 las olas boulevard,FL,FT. LAUDERDALE
+391,Comcast Cable Communications,315.0,"Professional, Technical, and Business Services",Comcast Service Center,"['point_of_interest', 'establishment']",18601 nw 2nd avenue,FL,MIAMI
+168,Plantation Beach Club at Indian River,306.0,Apartments/Condominiums,Plantation Beach Club,"['real_estate_agency', 'travel_agency', 'lodging', 'point_of_interest', 'establishment']",329 tradewinds lane,FL,STUART
+442,MAINLAND MEDICAL CENTER,316.0,Health Care Services,HCA Houston Healthcare Mainland,"['hospital', 'health', 'point_of_interest', 'establishment']",6801 emmett f lowry expy,TX,TEXAS CITY
+3,CBS TV City,300.0,Unknown,Television City,"['point_of_interest', 'establishment']",7800 beverly blvd,CA,LOS ANGELES
+419,The Alhambra,315.0,"Professional, Technical, and Business Services",2 Alhambra Plaza,['street_address'],2 alhambra plaza,FL,CORAL GABLES
+145,Kings Colony,306.0,Apartments/Condominiums,Kings Colony Apartments,"['real_estate_agency', 'point_of_interest', 'establishment']",8961 sw 142 ave,FL,MIAMI
+388,The Lincoln,315.0,"Professional, Technical, and Business Services",THE LINCOLN,"['point_of_interest', 'establishment']",1691 michigan avenue,FL,MIAMI BEACH
+337,301 Business Center,313.0,Wholesale Trade,9210 E Columbus Dr,['street_address'],9210 e columbus dr,FL,TAMPA
+445,WEST FLORIDA HOSPITAL,316.0,Health Care Services,West Florida Hospital,"['hospital', 'health', 'point_of_interest', 'establishment']",8383 n davis highway,FL,PENSACOLA
+288,5214,312.0,Retail Trade,Wawa,"['gas_station', 'point_of_interest', 'establishment']",7289 garden rd,FL,RIVIERA BEACH
+538,Aeronautics Company,322.0,Heavy Fabrication and Assembly,Lockheed Martin Aeronautics Co,"['point_of_interest', 'establishment']",1011 lockheed way,CA,PALMDALE
+115,Fountain View,305.0,Group Institutional Housing,Fountainview,"['health', 'point_of_interest', 'establishment']",111 executive center drive,FL,WEST PALM BEACH
+505,Electronic Components,321.0,General Industrial,GE Aviation,"['point_of_interest', 'establishment']",14200 roosevelt blvd,FL,CLEARWATER
+674,CA-21572,365.0,Telephone and Telegraph,211 W D St,['street_address'],211 w d st,CA,ONTARIO
+246,Boca Raton Town Center,312.0,Retail Trade,5700 Glades Rd,['street_address'],5700 w glades rd,FL,BOCA RATON
+342,THE DISNEY STORE DISTRIBUTION CENTER,313.0,Wholesale Trade,Disney Warehouse,"['storage', 'point_of_interest', 'establishment']",4795 imagination dr,TN,MEMPHIS
+71,Springfield Casino,304.0,Temporary Lodging,MGM Springfield,"['casino', 'lodging', 'point_of_interest', 'establishment']",1 mgm way,MA,SPRINGFIELD
